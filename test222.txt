@@ -6,3 +6,7 @@ testing rebase to master branch
 ============merged result===============
 master branch change, it's gonna comlict here.
 testing merge again 11
+
+
+=============let's play with rebase=======
+here is rebase content
