@@ -2,6 +2,7 @@ eric testing 111
 testing merge to master branch
 testing rebase to master branch
 
-=======================
 
+============merged result===============
 master branch change, it's gonna comlict here.
+testing merge again 11
